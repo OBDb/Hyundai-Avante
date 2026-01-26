@@ -1,35 +1,73 @@
+references:
+  - "https://en.wikipedia.org/wiki/Hyundai_Elantra"
+
 generations:
   - name: "First Generation"
     start_year: 1990
     end_year: 1995
-    description: "The original Hyundai Avante was essentially a rebadged version of the first-generation Elantra for specific markets, primarily South Korea. Featuring conservative, boxy styling typical of early 1990s compact sedans, it was positioned as an affordable family car. Powered by a range of four-cylinder engines typically between 1.5L and 1.8L displacement, it offered modest performance focused on reliability and economy. The interior was basic but functional, with a straightforward dashboard design and durable materials. This generation established the Avante nameplate in its home market, where it would eventually become one of Hyundai's core models."
+    description: "The original Hyundai Avante (codenamed J1) was launched in October 1990 as a compact sedan. It featured conservative, boxy styling typical of early 1990s vehicles and was powered by Mitsubishi-designed engines ranging from 1.5L to 1.8L four-cylinders with DOHC technology. In South Korea, it was initially sold as the Elantra nameplate until the second generation introduced the Avante name domestically. The first generation was also sold as the Bimantara Nenggala in Indonesia from 1995-1998."
+
+  - name: "First Generation (Facelift)"
+    start_year: 1993
+    end_year: 1995
+    description: "The first-generation Avante received a significant facelift in April 1993, introducing revised front and rear fascias with more organically shaped head- and taillights. The refresh also added ABS brakes, front airbags, fog lamps, power-operated side mirrors, and optional alloy wheels. For the European market in 1992, Hyundai updated the grille with its new logo while North American models retained their earlier appearance until the 1993 facelift."
 
   - name: "Second Generation"
     start_year: 1995
     end_year: 2000
-    description: "The second-generation Avante (corresponding to the second-generation Elantra) featured more rounded styling in line with mid-1990s design trends. Available primarily as a four-door sedan, it grew slightly in dimensions to offer improved interior space. Engine options typically included 1.6L to 2.0L four-cylinders with improved refinement and slightly better performance. The interior saw enhancements in design and material quality, though still positioned as a value-oriented compact car. This generation continued the Avante's position as Hyundai's mainstream compact sedan offering in its domestic and select export markets."
+    description: "The second-generation Avante (codenamed RD or J2) debuted in March 1995 with more rounded, organic styling inspired by Korean blue and white pottery. It was offered as a sedan in South Korea under the Avante name and as the Lantra in Australia and Europe. A station wagon variant was introduced six months after the sedan. The platform featured MacPherson struts up front and a multi-link coil-sprung rear axle."
+
+  - name: "Second Generation (Facelift)"
+    start_year: 1998
+    end_year: 2000
+    description: "The facelifted Avante arrived in February 1998 (codenamed RD2 or J3), featuring a new grille, revised bumpers, and redesigned head- and taillights. South Korean models were marketed as the 'New Avante.' The update also introduced a 2.0L engine option replacing the earlier 1.8L in most export markets, and a PSA-built 1.9L diesel engine became available for some European markets."
 
   - name: "Third Generation"
     start_year: 2000
     end_year: 2006
-    description: "The third-generation Avante continued the model's evolution with more sophisticated styling and improved engineering. Sharing its platform with the Kia Cerato/Spectra, it featured a more aerodynamic design with smoother lines. Engine options expanded to include more refined and powerful units, typically ranging from 1.6L to 2.0L four-cylinders. The interior received significant improvements in design, material quality, and feature content, reflecting Hyundai's overall push toward better quality and value. This generation marked a significant step forward in the Avante's refinement and market positioning."
+    description: "The third-generation Avante (codenamed XD) was an all-new model launched in 2000 with more aerodynamic styling. The station wagon variant was replaced by a five-door liftback body style. In this generation, the 'Lantra' name was retired in European and Australian markets, replaced by 'Elantra.' The platform was shared with the Kia Spectra. Engine options included 1.5L to 2.0L petrol engines and a 2.0L CRDi diesel."
+
+  - name: "Third Generation (Facelift)"
+    start_year: 2004
+    end_year: 2006
+    description: "The XD received a significant refresh in 2004 (codenamed XD2), introducing new headlights and taillights, a new grille, updated front and rear bumpers with split lower grille, redesigned hood and trunk lid, and a completely redesigned dashboard. The 2.0L engine received continuously variable valve timing (CVVT) in 2004, improving horsepower from 135 to 138. The GT trim was discontinued for the 2006 model year, replaced by the Limited trim."
 
   - name: "Fourth Generation"
     start_year: 2006
     end_year: 2010
-    description: "The fourth-generation Avante featured more European-influenced styling with a focus on dynamic lines and a sporty stance. Built on an all-new platform that improved both handling and interior space, it represented a significant advancement over its predecessor. Engine options were updated to include more efficient and powerful units, including improved 1.6L and 2.0L four-cylinders. The interior saw substantial enhancements in design, materials, and technology, offering features previously uncommon in its class. This generation elevated the Avante's market position, offering more refinement and features while maintaining competitive pricing."
+    description: "The fourth-generation Avante (codenamed HD) debuted at the 2006 New York International Auto Show for the 2007 model year. It featured a more rounded, jelly bean-like design and was sold as the Avante in South Korea. Built on the Hyundai-Kia J5 platform, it was offered with 1.6L Gamma and 2.0L Beta II petrol engines, plus a 1.6L turbodiesel. The interior received significant improvements in design and material quality."
+
+  - name: "Fourth Generation (LPI Hybrid)"
+    start_year: 2009
+    end_year: 2010
+    description: "The Avante LPI Hybrid was unveiled at the 2009 Seoul Motor Show and represented the world's first hybrid electric vehicle powered by a liquefied petroleum gas (LPG) internal combustion engine. It featured a 1.6L Gamma engine paired with a 15kW electric motor and CVT transmission, delivering exceptional fuel efficiency of 41.9 mpg. The hybrid used lithium-ion polymer batteries and qualified as a SULEV with emissions of 99 g/km CO2."
 
   - name: "Fifth Generation"
     start_year: 2010
     end_year: 2015
-    description: "The fifth-generation Avante adopted Hyundai's 'Fluidic Sculpture' design language, featuring dramatic, flowing lines and a distinctive hexagonal grille. Slightly larger than its predecessor, it offered improved interior space especially for rear passengers. Powered by updated engine options including the new Nu 1.8L and improved Gamma 1.6L four-cylinders, it balanced performance with enhanced fuel efficiency. The interior featured a more sophisticated design with higher quality materials and expanded technology options, including available navigation and premium audio systems. This generation represented Hyundai's ambition to compete directly with established compact sedans like the Toyota Corolla and Honda Civic on both features and quality."
+    description: "The fifth-generation Avante debuted at the 2010 Busan International Motor Show (codenamed MD for sedan, UD for US-manufactured sedans). It introduced Hyundai's 'Fluidic Sculpture' design language with dramatic, flowing lines and a hexagonal grille. For the U.S. market, it featured a new 1.8L Nu engine, while other markets received a 1.6L GDI direct-injection engine producing 103 kW. The Elantra won the 2012 North American Car of the Year award."
+
+  - name: "Fifth Generation (Facelift)"
+    start_year: 2013
+    end_year: 2015
+    description: "The fifth-generation Avante received a significant update for the 2014 model year. The GLS trim was changed to SE and an all-new Elantra Sport became available with a 2.0L GDI engine producing 201 hp. Exterior enhancements included new front and rear styling with tinted taillights, L-shaped fog light housings, projector headlights with LED accents on higher trims, and new wheel designs. Interior updates featured raised HVAC vents, 4.3-inch touchscreen with backup camera, and revised steering wheel design."
 
   - name: "Sixth Generation"
     start_year: 2015
     end_year: 2020
-    description: "The sixth-generation Avante featured more restrained styling compared to its predecessor, with clean lines and a focus on elegant simplicity over dramatic flourishes. Built on an updated platform with increased use of high-strength steel, it offered improved handling, refinement, and safety. Engine options were refined for better efficiency and drivability, typically including 1.6L and 2.0L four-cylinders with improved fuel economy. The interior saw enhancements in design, material quality, and technology, with available features including a larger touchscreen infotainment system, driver assistance technologies, and premium audio. This generation continued the Avante's upmarket progression while maintaining its value proposition."
+    description: "The sixth-generation Avante launched in South Korea in September 2015 (codenamed AD). The design shifted to a more conservative appearance compared to the previous generation's fluidic sculpture, adopting a fastback-like roofline with pentagonal headlights and taillights. Designed by Peter Schreyer, it featured a cockpit-style interior with controls in a single bow line across the dash. Engine options included 1.4L turbo, 1.6L Gamma II, and 2.0L Nu petrol engines."
+
+  - name: "Sixth Generation (Facelift)"
+    start_year: 2018
+    end_year: 2020
+    description: "The facelifted Avante was launched in South Korea on September 6, 2018, for the 2019 model year. The exterior received a redesigned rear with new taillights and 'ELANTRA' lettering across the trunk. Interior changes included revised HVAC controls, newly designed vents, and a new steering wheel design shared with the Kona and Veloster. Safety features were enhanced with forward collision avoidance, lane keep assist, and drive attention alert becoming standard on SEL trims and above."
 
   - name: "Seventh Generation"
     start_year: 2020
     end_year: null
-    description: "The current Avante features radical styling with a 'parametric dynamics' design theme, incorporating dramatic creases, angular elements, and distinctive lighting signatures. Sharing its platform with the latest Elantra, it offers improved dynamics, refinement, and efficiency. Powertrain options vary by market but typically include a standard 2.0L naturally aspirated four-cylinder, an optional 1.6L turbocharged four-cylinder, and in some regions, hybrid variants combining a 1.6L engine with electric motors. The interior represents a major departure from previous generations, featuring a driver-focused cockpit design with an available dual-screen setup combining a 10.25-inch digital instrument cluster and 10.25-inch infotainment touchscreen under a single piece of glass. Technology has advanced significantly with available features including wireless smartphone integration, advanced driver assistance systems, and digital key functionality. This generation pushes the Avante further upmarket with distinctive styling and technology while maintaining its position as Hyundai's core compact sedan offering."
+    description: "The seventh-generation Elantra (codenamed CN7) was unveiled on March 17, 2020, for the 2021 model year. It introduced Hyundai's 'parametric dynamics' design language with dramatic creases and a return to a fastback rear end style. Designed by Luc Donckerwolke, it featured twin digital display screens and was built on the Hyundai-Kia K3 platform. The Elantra Hybrid combined a 1.6L engine with an electric motor for 141 hp. In Australia, it was badged as the i30 Sedan."
+
+  - name: "Seventh Generation (Facelift)"
+    start_year: 2023
+    end_year: null
+    description: "The facelifted Avante was revealed in South Korea on February 27, 2023. The North American-market Elantra was introduced on August 30, 2023, for the 2024 model year. The facelift featured a redesigned front and rear end with updated styling. New safety features included rear side-impact airbags, rear seatbelt reminder, and haptic feedback steering wheel. A new curved display screen combining two separate screens under a single pane of glass became available. The Elantra N received similar updates in April 2023."
