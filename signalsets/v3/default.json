@@ -194,7 +194,7 @@
   ]},
 { "hdr": "7E0", "dbg": true, "cmd": {"22": "E021"}, "freq": 1, "filter": { "from": 2015 },
   "signals": [
-    {"id": "AVANTE_TB_PRES", "path": "Engine", "fmt": {"bix": 56,  "len": 16, "max": 543.350685,               "mul": 0.008291,                                   "unit": "kilopascal" }, "name": "Turbo boost pressure"},
+    {"id": "AVANTE_TB_PRES", "path": "Engine", "fmt": {"bix": 56,  "len": 16, "max": 543.350685,               "mul": 0.008291,                                   "unit": "kilopascal" }, "name": "Turbo boost pressure", "suggestedMetric": "absoluteBoostPressure"},
     {"id": "AVANTE_WG_V",    "path": "Engine", "fmt": {"bix": 392, "len": 16, "max": 9.99985458,               "mul": 0.000152588,                                "unit": "volts"      }, "name": "Waste gate voltage"},
     {"id": "AVANTE_WG_DUTY", "path": "Engine", "fmt": {"bix": 408, "len": 16, "max": 199.9970916,              "mul": 0.00305176,                                 "unit": "percent"    }, "name": "Waste gate duty"},
     {"id": "AVANTE_WG_POS",  "path": "Engine", "fmt": {"bix": 424, "len": 16, "max": 199.99,      "min": -200, "mul": 0.00610352,  "sign": true, "nullmin": -200, "unit": "percent"    }, "name": "Waste gate position"},
@@ -252,7 +252,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E001"}, "freq": 5, "filter": { "from": 2015 }, "dbgfilter": { "to": 2020, "from": 2022 },
   "signals": [
-    {"id": "AVANTE_EIT", "path": "Engine", "fmt": {"bix": 264, "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Intake air temperature"},
+    {"id": "AVANTE_EIT", "path": "Engine", "fmt": {"bix": 264, "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Intake air temperature", "suggestedMetric": "intakeAirTemperature"},
     {"id": "AVANTE_EOT", "path": "Engine", "fmt": {"bix": 272, "len": 8, "max": 143, "min": -48, "mul": 3, "div": 4, "add": -48, "unit": "celsius" }, "name": "Engine oil temperature"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "E002"}, "freq": 5, "filter": { "from": 2015 }, "dbgfilter": { "to": 2020, "from": 2022 },
